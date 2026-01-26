@@ -1,0 +1,66 @@
+{
+   "actions" : [
+      {
+        "name" : "/actions/game/in/movement",
+        "requirement" : "mandatory",
+        "type" : "vector2"
+      },
+      {
+        "name" : "/actions/game/in/shoot",
+        "requirement" : "mandatory",
+        "type" : "boolean"
+      },
+      {
+        "name" : "/actions/game/in/bomb",
+        "requirement" : "mandatory",
+        "type" : "boolean"
+      },
+      {
+        "name" : "/actions/game/in/jump",
+        "requirement" : "mandatory",
+        "type" : "boolean"
+      },
+      {
+        "name" : "/actions/game/in/rotateleft",
+        "type" : "boolean"
+      },
+      {
+        "name" : "/actions/game/in/rotateright",
+        "type" : "boolean"
+      },
+      {
+        "name" : "/actions/game/in/rotateup",
+        "type" : "boolean"
+      },
+      {
+        "name" : "/actions/game/in/rotatedown",
+        "type" : "boolean"
+      },
+      {
+        "name" : "/actions/game/in/escape",
+        "requirement" : "mandatory",
+        "type" : "boolean"
+      }
+   ],
+   "default_bindings" : [
+	{
+        "binding_url" : "actions_touch.json",
+        "controller_type" : "oculus_touch"
+    }
+   ],
+   "localization" : [
+      {
+        "/actions/game" : "InGame",
+        "/actions/game/in/movement" : "Movement",
+        "/actions/game/in/shoot" : "Shoot",
+        "/actions/game/in/bomb" : "Bomb",
+		"/actions/game/in/jump" : "Jump",
+        "/actions/game/in/rotateleft" : "Rotate Left",
+        "/actions/game/in/rotateright" : "Rotate Right",
+        "/actions/game/in/rotateup" : "Rotate Up",
+        "/actions/game/in/rotatedown" : "Rotate Down",
+		"/actions/game/in/escape" : "Escape",
+		"language_tag" : "en"
+      }
+   ]
+}
