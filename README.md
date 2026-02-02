@@ -1,4 +1,4 @@
-# Suwako-Chan Cubic (すわこちゃんcubic) - SteamVR Mod
+# Suwako-Chan Cubic - SteamVR Mod
 
 > *"I love it. Bullet hell game mechanics in three dimensions is awesome."* - Palmer Luckey
 
