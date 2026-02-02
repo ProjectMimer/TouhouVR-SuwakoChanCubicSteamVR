@@ -8,7 +8,7 @@ We have modded the game to support **SteamVR** and modern VR features.
 
 If you enjoy the mod please consider donating.
 
-[![Donate](https://img.shields.io/badge/Donate-Ko--Fi-blue?style=flat&logo=ko-fi)](https://ko-fi.com/projectmimer)
+[![Donate](https://img.shields.io/badge/Donate-Ko--Fi-blue?style=flat&logo=ko-fi)](https://ko-fi.com/projectmimer) | [Follow @MaruluExploit](https://x.com/MaruluExploit)
 
 
 ## Features
