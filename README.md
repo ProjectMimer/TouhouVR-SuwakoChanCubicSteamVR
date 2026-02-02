@@ -1,5 +1,7 @@
 # Suwako-Chan Cubic - SteamVR Mod
 
+[![Donate](https://img.shields.io/badge/Donate-Ko--Fi-blue?style=flat&logo=ko-fi)](https://ko-fi.com/projectmimer) If you enjoy the mod please consider donating.
+
 > *"I love it. Bullet hell game mechanics in three dimensions is awesome."* - Palmer Luckey
 
 **Suwako-Chan Cubic (すわこちゃんcubic)**, also known as **Suwapyon2**, is a Touhou fan game originally created by **UTG Software** and released in **2012** for PC. It was later released as a VR version on **Oculus Share** for the **Oculus DK1 and DK2** devkits.  
@@ -28,3 +30,4 @@ Have fun!
 ## Credits
 - **VR MOD**: Streetrat, Marulu  
 - **Original Game**: Rodonjohn, Dhi, Matatabi
+
