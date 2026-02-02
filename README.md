@@ -4,9 +4,12 @@
 
 **Suwako-Chan Cubic (すわこちゃんcubic)**, also known as **Suwapyon2**, is a Touhou fan game originally created by **UTG Software** and released in **2012** for PC. It was later released as a VR version on **Oculus Share** for the **Oculus DK1 and DK2** devkits.  
 
-We have modded the game to support **SteamVR** and modern VR features. 
+We have modded the game to support **SteamVR** and modern VR features.
+
 If you enjoy the mod please consider donating.
+
 [![Donate](https://img.shields.io/badge/Donate-Ko--Fi-blue?style=flat&logo=ko-fi)](https://ko-fi.com/projectmimer)
+
 
 ## Features
 - SteamVR Support  
